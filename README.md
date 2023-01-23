@@ -19,6 +19,9 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 ## PROGRAM:
 ```
+Developed by: Udayakumar R
+RegisterNumber:  22008609
+
 fname = input("Enter file name: ")
 num_words = 0
 with open(fname, 'r') as f:
@@ -28,6 +31,6 @@ with open(fname, 'r') as f:
 print("Number of words: ", num_words)
 ```
 ### OUTPUT:
-![](output.png)
+![OUTPUT](output.png)
 ## RESULT:
 Thus the program is written to find the word count from a text.
